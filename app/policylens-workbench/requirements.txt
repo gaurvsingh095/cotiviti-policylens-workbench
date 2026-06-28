@@ -1,0 +1,3 @@
+# PolicyLens Workbench — Python server dependencies
+# Flask only hosts the production React build in dist/. No app logic lives here.
+Flask>=3.0.0
