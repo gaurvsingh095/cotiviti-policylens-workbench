@@ -11,6 +11,14 @@ PolicyLens Workbench is a production-grade prototype for AI-native healthcare co
 
 The prototype uses synthetic policy text and synthetic case data only. It does not process PHI and does not make real clinical, payment, or coverage decisions.
 
+## Demo Video
+
+Watch the recorded demo here:  
+[PolicyLens Workbench Demo Video](https://drive.google.com/file/d/1GTppM7jCYbcBdyq9kgMUZeT8HpaK09fW/view?usp=sharing)
+
+A backup MP4 may also be included in the repository under:
+
+`video/Cotiviti_Intern_Demo.mp4`
 ## Folder structure
 
 ```text
@@ -54,17 +62,5 @@ npm run build
 - 33 tests passed
 - Production build succeeded
 
-## Suggested recording flow
 
-1. Start with the PowerPoint title slide.
-2. Explain the problem and product thesis.
-3. Open PolicyLens Workbench Command Center.
-4. Show Imaging Prior Authorization in Policy Library.
-5. Walk through Version Diff and Impact Map.
-6. Open Rule Studio and show source-cited candidate rules.
-7. Run the default imaging case in Scenario Lab.
-8. Change therapy weeks from 5 to 6 and rerun.
-9. Show QA Tests and Reviewer Queue.
-10. Export/copy the Audit Pack.
-11. Close on Future Add-ons and Responsible Use.
 ```
